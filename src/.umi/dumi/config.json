@@ -1,0 +1,26 @@
+{
+  "menus": {
+    "en-US": {
+      "*": [
+        {
+          "path": "/",
+          "title": "Hello myblog!",
+          "meta": {}
+        }
+      ]
+    }
+  },
+  "locales": [
+    {
+      "name": "en-US",
+      "label": "English"
+    }
+  ],
+  "navs": {},
+  "title": "myblog",
+  "mode": "doc",
+  "repository": {
+    "branch": "master"
+  },
+  "theme": {}
+}
